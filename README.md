@@ -1,5 +1,13 @@
 # LinearAlgebra
 
+## Scalars & Vectors
+
+## Normalization
+
+## Determinant of the matrix
+
+## Rank of the matrix
+
 ## Row reduction, row-echelon form and reduced row-echelon form
 
 ### RowOperations
